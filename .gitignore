@@ -4,8 +4,10 @@
 *.so
 /doc
 .rust
+.cargo
 
 # Cargo files
 Cargo.lock
 /target
 libsodium-sys/target
+examples/example1/target
